@@ -1,0 +1,32 @@
+{
+  "Idle": {
+    "east": 9,
+    "north": 9,
+    "north-east": 9,
+    "north-west": 9,
+    "south": 9,
+    "south-east": 9,
+    "south-west": 9,
+    "west": 9
+  },
+  "Walk": {
+    "east": 8,
+    "north": 11,
+    "north-east": 8,
+    "north-west": 8,
+    "south": 8,
+    "south-east": 9,
+    "south-west": 9,
+    "west": 8
+  },
+  "Attack_1": {
+    "east": 16,
+    "north": 16,
+    "north-east": 16,
+    "north-west": 16,
+    "south": 16,
+    "south-east": 15,
+    "south-west": 15,
+    "west": 16
+  }
+}

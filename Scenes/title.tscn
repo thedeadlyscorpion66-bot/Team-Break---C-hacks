@@ -1,0 +1,18 @@
+[gd_scene load_steps=4 format=3 uid="uid://cfhi8bh5vx1f"]
+
+[ext_resource type="Script" uid="uid://dbxcoqrbxqmqj" path="res://Scripts/title.gd" id="1_w31pl"]
+[ext_resource type="AudioStream" uid="uid://cdvt0pshpwe2g" path="res://Assets/Ninja Adventure - Asset Pack/Audio/Musics/37 - Dark Forest.ogg" id="2_ekrfg"]
+[ext_resource type="FontFile" uid="uid://d276c6qy3ow25" path="res://Assets/NormalFont.ttf" id="2_fp2oq"]
+
+[node name="Title" type="Control"]
+layout_mode = 3
+anchors_preset = 0
+offset_right = 40.0
+offset_bottom = 40.0
+script = ExtResource("1_w31pl")
+pixel_font = ExtResource("2_fp2oq")
+
+[node name="AudioStreamPlayer" type="AudioStreamPlayer" parent="."]
+stream = ExtResource("2_ekrfg")
+volume_db = -8.0
+autoplay = true

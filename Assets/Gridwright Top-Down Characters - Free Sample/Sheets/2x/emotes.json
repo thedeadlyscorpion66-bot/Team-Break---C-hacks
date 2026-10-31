@@ -1,0 +1,55 @@
+{
+ "image": "emotes.png",
+ "scale": 2,
+ "fps": 3,
+ "emotes": {
+  "emote_exclaim_0": {
+   "x": 0,
+   "y": 0,
+   "w": 32,
+   "h": 32
+  },
+  "emote_exclaim_1": {
+   "x": 32,
+   "y": 0,
+   "w": 32,
+   "h": 32
+  },
+  "emote_question_0": {
+   "x": 64,
+   "y": 0,
+   "w": 32,
+   "h": 32
+  },
+  "emote_question_1": {
+   "x": 96,
+   "y": 0,
+   "w": 32,
+   "h": 32
+  },
+  "emote_heart_0": {
+   "x": 128,
+   "y": 0,
+   "w": 32,
+   "h": 32
+  },
+  "emote_heart_1": {
+   "x": 160,
+   "y": 0,
+   "w": 32,
+   "h": 32
+  },
+  "emote_dots_0": {
+   "x": 192,
+   "y": 0,
+   "w": 32,
+   "h": 32
+  },
+  "emote_dots_1": {
+   "x": 224,
+   "y": 0,
+   "w": 32,
+   "h": 32
+  }
+ }
+}
